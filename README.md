@@ -20,4 +20,4 @@ A clean and intuitive desktop alarm clock and timer application built with Pytho
 
 ### Execution
 ```bash
-run python Timer.py
+python Alarm_Clock.py
