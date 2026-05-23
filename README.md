@@ -1,4 +1,5 @@
 # 🤖 Robotics Experts : Alarm Clock
+<img width="640" height="480" alt="Video Project 252" src="https://github.com/user-attachments/assets/42ba84b8-2c30-412a-bd04-cf32446333a4" />
 
 A clean and intuitive desktop alarm clock and timer application built with Python and Tkinter. It features a sleek dark-themed UI that allows users to set specific target times or custom minute-based countdowns with synchronized audio alerts.
 
